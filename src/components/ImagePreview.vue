@@ -83,7 +83,7 @@ const selectImg = () => {
 }
 
 .preview-close-btn {
-  position: absolute;
+  position: absolute !important;
   top: 10px;
   right: 10px;
   color: var(--accent);
